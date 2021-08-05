@@ -5,4 +5,7 @@
 * for anyone who cant use it or have a problem with it set sensitivity in game to 2 or try to adjust ur sensitivity by urself 
  
  ***i'm not responsible if you use it and get ban***
+ 
+ 
+ ***btw pls leave a STAR to cheer me up, thank***
 
