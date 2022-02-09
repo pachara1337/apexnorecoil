@@ -68,13 +68,10 @@ bind_spit=f9
 bind_pross=f6
 bind_volt=f7
 bind_lstar=f10
-bind_pros=Numpad1
 bind_flat=f8
 bind_devo=f11
 bind_tdevo=f12
 bind_havoc=f5
-bind_hemlok=Numpad2
-bind_scout=Numpad3
 ;----hotkey registor-----
 Hotkey, ~$*%bind_1%, key_1
 Hotkey, ~$*%bind_2%, key_2
