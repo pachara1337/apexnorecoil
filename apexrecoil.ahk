@@ -10,7 +10,7 @@ SetWorkingDir %A_ScriptDir%
  
 Gui, Font, cGreen
 Gui, Font, s10
-Gui, Add, Text, x30 y10, Apex No Recoil By PacharaGOD
+Gui, Add, Text, x30 y10, Apex No Recoil By DARKNET
 Gui, Font, s12
 Gui, Add, Text, x30 y+15, Setting :
 Gui, Font, s10
