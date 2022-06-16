@@ -3,7 +3,7 @@
 #SingleInstance force
 #MaxThreadsBuffer on
 #Persistent
-;#NoTrayIcon ;if you care (not reccomend)
+;#NoTrayIcon 
 SetBatchLines, -1
 ListLines, Off
 SetWorkingDir %A_ScriptDir%
@@ -35,7 +35,7 @@ Gui, -AlwaysOnTop
 Gui, Color, Black
 Gui, Show, w350 h450, No Recoil Script
  
-SetBatchLines -1                        ;removes default 10ms delay between lines 
+SetBatchLines -1                        
 #MaxHotkeysPerInterval 99000000
 #HotkeyInterval 99000000
 #KeyHistory 0
@@ -49,11 +49,11 @@ SetWinDelay, -1
 ;   ExitApp
 ;}
  
-;-----editplz-----
+;-----edit-----
 sens:=2
-bind_bhop=mbutton ;This button should be binded sub-crouch[hold] key in Game setting
-subjumpkey=9 ;This button should be binded sub-Jump key in Game setting
-subshootkey=0 ;This button should be binded sub-Attack key in Game setting
+bind_bhop=mbutton ;sub crouch bind
+subjumpkey=9 ;sub jump bind 
+subshootkey=0 ;sub attack bind
  
 bind_1=1
 bind_2=2
@@ -75,7 +75,7 @@ bind_tdevo=f12
 bind_havoc=f5
 bind_hemlok=Numpad2
 bind_scout=Numpad3
-;----hotkey registor-----
+;----HOTKEY REG-----
 Hotkey, ~$*%bind_1%, key_1
 Hotkey, ~$*%bind_2%, key_2
 Hotkey, ~$*%bind_run%, key_3
