@@ -12,3 +12,5 @@
 _03/03/2022 still working_
 _16/06/2022 still working_
 
+
+_15/07/2022 recommend to use with ahk hider aka hyde.dll to be safer
