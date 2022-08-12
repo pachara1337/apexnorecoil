@@ -28,7 +28,7 @@ Gui, Add, Text, x30 y+5,  "F11" Devotion
 Gui, Add, Text, x30 y+5,  "F12" DevotionSelect
 Gui, Add, Text, x30 y+5,  "Numepad1" HavocSelect
 Gui, Add, Text, x30 y+5,  "Numepad2" Hemlok
-Gui, Add, Text, x30 y+5,  "Numepad3" Scout/p2020/wigman
+Gui, Add, Text, x30 y+5,  "Numepad3" Scout/p2020/wingman
 Gui, Add, Text, x30 y+5, "5" Reset Script
  
 Gui, -AlwaysOnTop
